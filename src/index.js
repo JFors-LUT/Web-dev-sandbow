@@ -9,7 +9,7 @@ if (document.readyState !== "loading") {
 }
 
 function initializeCode() {
-  const addButton = document.getElementById("myButton");
+  const addButton = document.getElementById("my-button");
   const myHeader = document.getElementById("header1");
   myHeader.innerText = "Hello world";
 
